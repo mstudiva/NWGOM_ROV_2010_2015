@@ -22,10 +22,14 @@ library(magrittr)
 
 #### version: `r Sys.Date() %>% format(format="%B %d, %Y")`
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+
+#### [GitHub repository](https://github.com/RyanEckert/NWGOM_ROV_2010_2015.git){target="_blank"}
+
 # About this document
 ***
 #### All analyses preformed with R version `r getRversion()`.
-This is the code that accompanies the publication [XXX](){target="_blank"}. Here you will find all the code to repeat the statistical analyses performed for this manuscript. All of the accompanying data can be found on [GitHub](https://github.com/RyanEckert/NW GOM_ROV_2010_2015/tree/master/data){target="_blank"}.  
+This is the code that accompanies the publication [XXX](){target="_blank"}. Here you will find all the code to repeat the statistical analyses performed for this manuscript. All of the accompanying data can be found on [GitHub](https://github.com/RyanEckert/NWGOM_ROV_2010_2015/tree/master/data){target="_blank"}.  
 
 For this project we conducted 296 ROV transects (~0.1 km length) in mesophotic coral ecosystems (MCEs) across 5 banks in the nortwestern Gulf of Mexico (NW GOM). Downward-facting still photographs including scaled parallel laser points were captured along each transect. These photographs were analyzed for benthic percent cover using 50 randomly placed point per photograph.<br> 
 
