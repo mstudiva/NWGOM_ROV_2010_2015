@@ -1,5 +1,6 @@
 NWGOM ROV transect analyses
 ==========================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
 
 ### Ryan Eckert -- <ryan.j.eckert@gmail.com>
 
