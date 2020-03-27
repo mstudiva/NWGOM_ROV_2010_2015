@@ -1,0 +1,89 @@
+DFDFDF
+AFAFAF
+15
+"TUN", "Tunicata",8000FF
+"Misc", "Misc.",408080
+"Bac", "Bacterial Mat",FF0080
+"Ech", "Echinoderm",DFDFDF
+"Mol", "Mollusca",FF8000
+"CHO", "Chordata",00FFFF
+"CNI", "Cnidaria",0080FF
+"POR", "Porifera",FFFF00
+"ALG", "Algae",80FF00
+"HB", "Hard Bottom",808000
+"SB", "Soft Bottom",FF00FF
+"Hyd", "Hydroid",008080
+"Cor", "Coral",FF0000
+"DCOR", "Dead Coral",DFDFDF
+"Tape", "Tape wand shadow",CFCFCF
+"Bac", "Bacterial Mat", "Bac"
+"HYD", "Hydroid", "Hyd"
+"Worm", "Worm casing", "Misc"
+"Demo", "Demospongiae", "POR"
+"Moll", "Mollusca", "Mol"
+"Aste", "Asteroidea", "Ech"
+"Cri", "Crinoid", "Ech"
+"TUN", "Tunicata", "TUN"
+"OST", "Osteichthyes", "CHO"
+"Turf", "Turf Algae", "ALG"
+"CHL", "Chlorophyta", "ALG"
+"Bubb", "Bubble Alga", "ALG"
+"Cod", "Codium sp.", "ALG"
+"Dict", "Dictyota sp.", "ALG"
+"Hali", "Halimeda sp.", "ALG"
+"PHA", "Phaeophyta", "ALG"
+"Sarg", "Sargassum sp.", "ALG"
+"RHO", "Rhodophyta", "ALG"
+"CCA", "Crustose Coralline Algae", "ALG"
+"Anti", "Antipathidae", "CNI"
+"Apha", "Aphanipathidae", "CNI"
+"Myr", "Myriopathidae", "CNI"
+"Stic", "Stichopathes", "CNI"
+"Tana", "Tanacetipathes", "CNI"
+"Alcy", "Alcyoniidae", "CNI"
+"Alic", "Aliciidae", "CNI"
+"Elli", "Ellisellidae", "CNI"
+"Gorg", "Gorgoniidae", "CNI"
+"Nice", "Nicella sp.", "CNI"
+"Nida", "Nidaliidae", "CNI"
+"Neph", "Nephtheidae", "CNI"
+"Para", "Paramuriceidae", "CNI"
+"Plex", "Plexauridae", "CNI"
+"Prim", "Primnoidae", "CNI"
+"Agar", "Agaricia sp.", "Cor"
+"A aga", "Agaricia agaricites", "Cor"
+"A lam", "Agaricia lamarcki", "Cor"
+"A fra", "Agaricia fragilis", "Cor"
+"C nat", "Colpophyllia natans", "Cor"
+"Madc", "Madracis sp.", "Cor"
+"M asa", "Madracis asanoi", "Cor"
+"M asp", "Madracis asperula", "Cor"
+"M bru", "Madracis brueggemanni", "Cor"
+"M dec", "Madracis decactis", "Cor"
+"M mir", "Madracis mirabilis", "Cor"
+"M pha", "Madracis pharensis", "Cor"
+"Madp", "Madrepora sp.", "Cor"
+"M car", "Madrepora carolina", "Cor"
+"M cav", "Montastraea cavernosa", "Cor"
+"M ang", "Mussa angulosa", "Cor"
+"Ocu", "Oculinidae", "Cor"
+"O dif", "Oculina diffusa", "Cor"
+"O ann", "Orbicella annularis", "Cor"
+"O fav", "Orbicella faveolata", "Cor"
+"O fra", "Orbicella franksi", "Cor"
+"P ast", "Porites astreoides", "Cor"
+"P col", "Porites colonensis", "Cor"
+"P por", "Porites porites", "Cor"
+"P stri", "Pseudodiploria strigosa", "Cor"
+"Scol", "Scolymia sp.", "Cor"
+"S sid", "Siderastrea siderea", "Cor"
+"S bou", "Solenastrea bournoni", "Cor"
+"S int", "Stephanocoenia intersepta", "Cor"
+"S rad", "Siderastra radians", "Cor"
+"M alc", "Millepora alcicornis", "Cor"
+"M co", "Millepora complanata", "Cor"
+"DCOR", "Dead Coral", "DCOR"
+"hard", "Hard Bottom", "HB"
+"soft", "Soft Bottom", "SB"
+"TWS", "Tape Wand shadow", "Tape"
+NOTES,NOTES,NOTES

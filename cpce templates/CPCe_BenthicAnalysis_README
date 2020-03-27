@@ -1,0 +1,68 @@
+CPCe Laser Scaling, Point Count, and Density Counts
+Created by Michael Studivan (mstudiva@fau.edu)
+
+Preliminary Steps
+1.	Export transect start/stop and GPS data from the Access database.
+2.	Create subfolders within each dive for each transect.
+3.	COPY the images from within the start/stop times into the corresponding transect subfolders.
+4.	Create an Excel spreadsheet containing the number of photos for each transect for all dives. A template can be found in the same folder as this protocol.
+5.	Once you start doing any of the analyses, work only within that folder (i.e. do not copy photos to your local machine). It will only create problems down the line. Also, if you plan on doing analyses on different computers, make sure the Robertson network drive is mapped to the same letter on all computers (Z:).
+
+Laser Scaling
+1.	Open CPCe 4.1.
+2.	Go to Measurement, Area/length analysis, and navigate to your images in each transect. You can only open one image at a time.
+3.	Click Scaling calibration, then Perform image scaling/calibration.
+4.	Left click on the first laser point, then adjust using the arrow keys to get in the center of the laser point. Press enter, then repeat the same process with the second laser point.
+5.	When a new box pops up to specify the spacing between the laser points, enter 10cm (or whatever the length is) and press enter.
+6.	The image will flash, and verify that it has been scaled by the pixel/cm text in the upper left.
+7.	Click Area/Length Analysis and draw a line using the left mouse button to start. To stop the line, right click. A window will open that contains the code file. Select Soft Bottom, then Save data and exit.
+    a.	If there are corals, create the area shape over them and identify using the code file. Multiple corals should each have a shape.
+    b.	Use soft bottom only if there are no corals.
+8.	Click Save .ara file on the right panel of the interface and save using the same filename as the photo.
+9.	If the photo is blurry, too far, too close, too dark, or missing one or both laser points, do not process it. Keep counts of images removed and reasons in the summary spreadsheet.
+10.	Complete the summary spreadsheet after each transect is completed.
+11.	To export each transect’s data to Excel, go to File, Save, Save .ara file(s) to Excel. This will export the area of each photo and the total transect area.
+    a.	If an image has one or more corals, the species should appear on individual lines in the .ara Excel file.
+
+Point Counts
+1.	Open CPCe 4.1.
+2.	Go to Utilities, Create code file, Import code file, and navigate to the proper directory. A template can be found in the same folder as this protocol.
+    a.	To add new categories or subcategories, populate the required fields in the right of the box including a code (what appears in the CPCe code box) and the full name.
+    b.	For subcategories, choose which major category it will fit in.
+    c.	Click add to code file when you are ready.
+    d.	Change the order of groups by using the Move Up and Move Down buttons to the left.
+    e.	Color coding can be changed by double clicking the color icon in the Major Categories box.
+    f.	Press Save code file to save.
+        i.	Also save a backup.
+        ii.	DO NOT press Check for errors. It will crash the program and you will have to redo the code file.
+3.	Specify the code file using Options, Specify code file. You may need to this periodically in between working sessions.
+4.	Go to Mark border and Use entire image.
+5.	Go to Point Overlay and choose 50 Simple random points.
+    a.	Under Options, change Letter symbols to Number symbols.
+    b.	Also check Auto follow.
+    c.	Also select Data point graphical parameters and select crosshairs.
+6.	To batch process images, go to File, Multiple images/files processing, process multiple images.
+    a.	Navigate to the transect subfolder and highlight all of the images.
+7.	Close the metadata window when all the images load.
+8.	Click in the ID box of Point 1 (to the right of the window). The color of the selected point will change.
+    a.	To help minimize distractions of other points, you can select the Isolation mode (sun icon down below the point ID table). All other points not selected should disappear.
+    b.	Zooming to 300% also helps with accurate identification.
+    c.	For hard to see objects, 600% may also help.
+9.	Click on the corresponding species code for each point. Remember to only count what is directly under the center of the crosshair.
+10.	Do not guess if you are unsure. Check the Humann & Deloach books for positive IDs. Do not overstep your identification level; always ask someone if you are unsure.
+    a.	Points in shadow are classified as Tape, Wand, Shadow (TWS).
+11.	After finishing all 50 points for an image, press the right-pointing green arrow below the ID table.
+    a.	.cpc files containing all the IDed points will automatically save when you advance to a new photo.
+    b.	For the last photo in the transect, the right-pointing arrow will be greyed out and not selectable. Make sure to save that .cpc file by clicking the left-pointing arrow.
+12.	Skip the images that do not have corresponding .ara files (meaning laser scaling could not be completed and the image will be removed from the transect).
+13.	Fill out the summary spreadsheet as you complete transects.
+14.	Once all photos in a transect are completed, go to File, Save, Save .cpc files to Excel. This will export all of the data as % cover for each transect. Save the Excel file in the corresponding transect subfolder.
+
+Density Counts
+1.	It is best to complete the density counts for each transect as you complete the point counts, so that your IDs will be consistent.
+2.	Adapt the density counts template spreadsheet to the current cruise.
+3.	Copy the name of each photo into the Excel spreadsheet.
+4.	Open the first photo in a transect using Windows Photo Gallery and record the number of coral species present. Zooming to a subset of the photo and moving around will help to find the smallest corals. Species like Madracis sp. tend to blend in with algal nodules.
+5.	Advance through all of the photos in the transect.
+
+These steps are not necessary if you mark each coral during the laser scaling process.
